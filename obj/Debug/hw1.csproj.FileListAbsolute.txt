@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2015\Projects\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.pdb
+C:\Users\Admin\Desktop\hw1_partA\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\Admin\Desktop\hw1_partA\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\Admin\Desktop\hw1_partA\hw1\hw1\obj\Debug\hw1.pdb
+C:\Users\Admin\Desktop\hw1_partA\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\Admin\Desktop\hw1_partA\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\Admin\Desktop\hw1_partA\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\hw1\hw1_partA\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\Admin\Desktop\hw1\hw1_partA\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\Admin\Desktop\hw1\hw1_partA\hw1\hw1\obj\Debug\hw1.pdb
+C:\Users\Admin\Desktop\hw1\hw1_partA\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\Admin\Desktop\hw1\hw1_partA\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\Admin\Desktop\hw1\hw1_partA\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
